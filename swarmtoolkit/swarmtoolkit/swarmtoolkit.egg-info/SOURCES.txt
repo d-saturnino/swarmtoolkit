@@ -1,0 +1,13 @@
+README.md
+setup.py
+swarmtoolkit/__init__.py
+swarmtoolkit/aux.py
+swarmtoolkit/ops.py
+swarmtoolkit/sph.py
+swarmtoolkit/sw_io.py
+swarmtoolkit/vis.py
+swarmtoolkit.egg-info/PKG-INFO
+swarmtoolkit.egg-info/SOURCES.txt
+swarmtoolkit.egg-info/dependency_links.txt
+swarmtoolkit.egg-info/requires.txt
+swarmtoolkit.egg-info/top_level.txt
